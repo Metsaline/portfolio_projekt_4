@@ -45,8 +45,6 @@ Suhtluskanalid: **GitHub**, **Slack**.
 **2. päev**
 - HTML ja CSS, disaini ümbertoomine koodi
 
-**3. päev**
--
 
 ### Projekti disain ja prototüüpimine:
 

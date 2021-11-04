@@ -189,4 +189,12 @@
 .grid-item {
     border: 10px solid #303030;
     background-color: #303030;
+    transition: all .25s;
+}
+
+.grid-item:hover {
+    height: 100%;
+    width: 100%;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }

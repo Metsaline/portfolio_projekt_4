@@ -8,7 +8,21 @@
 
 /* Header */
 
-.secmenu {
+/* Header */
+.headermenu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navmenu {
+    background-color: #343232;
+    display: flex;
+}
+.name {
+    background-color: blue;
+}
+
+/* .secmenu {
     z-index: 1000;
     display: flex;
     opacity: 70%;
@@ -101,7 +115,7 @@
     width: 2px;
     left: 87.8%;
     background-color: gray;
-}
+} */
 
 
 /* Syd mead picture big */

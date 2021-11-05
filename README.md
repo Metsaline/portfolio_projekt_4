@@ -60,9 +60,10 @@ Suhtluskanalid: **GitHub**, **Slack**.
 - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
 
 **Andrus**
-- 
-- 
-- 
+- Osaline tiimi juhtimise kogemus.
+- Proovida juhendada selle asemel, et ise ära teha asju. 
+- Giti repo haldamine
+- Ei 
 
 **Kenneth**
 - 

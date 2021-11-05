@@ -201,13 +201,14 @@ img {
 
 .container img {
     margin-top: 20px;
+    margin-left: 5%;
 }
 
 @media (max-width: 1024px) {
     .container {
         width: 100%;
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(2, 0.2fr);
     }
 }
 
@@ -224,6 +225,8 @@ img {
 .gallerylabel {
     align-items: center;
     display: flex;
+    margin-top: 1%;
+    margin-left: 1%;
     background-color: transparent;
     font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
     font-style: normal;

@@ -6,101 +6,53 @@
 }
 
 
+/* apply a natural box layout model to all elements, but allowing components to change */
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+
 /* Header */
 
-.secmenu {
-    z-index: 1000;
+
+/* Header */
+
+.headermenu {
     display: flex;
-    opacity: 70%;
-    top: 2%;
-    left: 1%;
-    flex-direction: column;
-    width: 98%;
-    height: 5%;
-    border-radius: 20px;
-    background-color: rgba(40, 40, 40, 1.5);
-    box-shadow: -12px -6px 30px 7px rgba(199, 199, 199, 0.25), 21px 24px 36px #343232, inset 0px 0px 45px 20px rgba(0, 0, 0, 0.25);
+    justify-content: space-between;
+    margin: 1rem;
+    padding: 1rem;
+    position: fixed;
+    width: 96vw;
 }
 
-.introb {
-    font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 25px;
-    color: white;
+.navmenu {
+    background-color: #343232;
     display: flex;
-    flex-direction: row;
-    background-color: transparent;
-    user-select: none;
-}
-
-.galleryb {
-    font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 25px;
-    color: white;
-    display: flex;
-    flex-direction: row;
-    background-color: transparent;
-    user-select: none;
-}
-
-.achievementsb {
-    font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 25px;
-    flex-direction: row;
-    color: white;
-    display: flex;
-    background-color: transparent;
-    user-select: none;
-}
-
-.introb:hover {
-    cursor: pointer;
-    color: rgb(255, 0, 242);
-}
-
-.galleryb:hover {
-    cursor: pointer;
-    color: rgb(255, 0, 242);
-}
-
-.achievementsb:hover {
-    color: rgb(255, 0, 242);
-    cursor: pointer;
 }
 
 .name {
     font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 25px;
-    top: 60%;
-    display: flex;
-    flex-direction: inherit;
-    left: 5%;
-    color: white;
-    background-color: transparent;
-    user-select: none;
+    font-size: 2rem;
+    /* background-color: blue; */
+    color: cornsilk;
+    text-transform: uppercase;
 }
 
-.name:hover {
-    color: orangered;
-}
-
-.name:active {
-    color: orange
-}
-
-.line1 {
-    height: 60%;
-    top: 20%;
-    width: 2px;
-    left: 76.1%;
-    background-color: gray;
-}
-
-.line2 {
-    height: 60%;
-    top: 20%;
-    width: 2px;
-    left: 87.8%;
-    background-color: gray;
+.navmenu a {
+    font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2rem;
+    color: cornsilk;
+    margin-left: 2rem;
+    text-decoration: none;
+    line-height: 2rem;
 }
 
 

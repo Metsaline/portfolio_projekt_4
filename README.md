@@ -75,9 +75,9 @@ Suhtluskanalid: **GitHub**, **Slack**.
 - Ei
 
 **Marcus**
-- 
-- 
-- 
+- Tiimiga suhtlemine ja abistamine
+- Sain targemaks veebisaidi disainimisel ja funktsionaalseks tegemisel
+- Ei oska öelda
 
 **Kristo**
 - Tiimitoo 
@@ -90,6 +90,6 @@ Suhtluskanalid: **GitHub**, **Slack**.
 - Ei sain täita just neid ülesandeid mis pakkusid huvi
 
 **Gendro**
-- 
-- 
-- 
+- Tiimitöö
+- Koodi kirjutamist
+- Ei

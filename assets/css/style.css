@@ -207,7 +207,8 @@
     background-color: #303030;
     background-image: sydmead2;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    padding: 1%;
 }
 
 
@@ -216,36 +217,42 @@
 .saavutusedd {
     font-size: 60px;
     text-align: center;
-    left: 50%;
-    margin-left: 70%;
-    align: grid;
+    padding: auto;
+    margin: auto;
+    align-content: grid;
 }
 
 .container10 {
     display: flex;
     flex-direction: row;
+    padding: auto;
+    margin: auto;
+    align-content: grid;
 }
 
 .saavutus {
     font-size: 24px;
     width: 25%;
-    display: grid;
+    display: flex;
     grid-template-columns: auto auto auto;
-    top: 18%;
-    left: 2.5%;
     border-radius: 10px;
     font-size: 25px;
     font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     background-color: #303030;
     box-shadow: -12px -6px 30px 7px rgba(199, 199, 199, 0.25), 21px 24px 36px #343232, inset 0px 0px 45px 20px rgba(0, 0, 0, 0.25);
-    margin: 10px;
+    padding: 1%;
+    margin: auto;
+    align-content: grid;
 }
 
+
+}
 @media screen and (max-width: 600px) {
     .container10 {
         flex-direction: column;
     }
+    
     .saavutus {
         margin: 0 auto;
         font-size: 24px;
@@ -253,10 +260,12 @@
         background-color: red;
         margin: 10px;
     }
+    
     .saavutusedd {
         font-size: 36px;
         text-align: center;
     }
+    
     .introduction {
         background-color: transparent;
         left: auto;
@@ -271,22 +280,11 @@
         color: white;
         font-size: 20px;
     }
+    
     .picture1 {
         background-color: #303030;
         background-image: sydmead2;
-        display: flex;
-        flex-direction: column;
+        margin: auto;
+        align-content: grid;
     }
-}
-
-.saavutus1 {
-    background-color: red;
-}
-
-.saavutus2 {
-    background-color: green;
-}
-
-.saavutus3 {
-    background-color: blue;
 }

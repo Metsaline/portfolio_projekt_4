@@ -50,7 +50,7 @@ Suhtluskanalid: **GitHub**, **Slack**.
 
 [Figma](https://www.figma.com/file/Pr425dPqU4LKjL1YDkOglm/Portfolio---Team-4?node-id=0%3A1)
 
-[Portfoolio](https://www.google.com/)
+[Portfoolio](https://projekt4.ta20pajuniit.itmajakas.ee/)
 
 ### Projekt:
 

@@ -85,9 +85,9 @@ Suhtluskanalid: **GitHub**, **Slack**.
 - Ei
 
 **Marten**
--Tiimitöö
--Täiendasin koodikirjutamise oskusi
--Ei sain täita just neid ülesandeid mis pakkusid huvi
+- Tiimitöö
+- Täiendasin koodikirjutamise oskusi
+- Ei sain täita just neid ülesandeid mis pakkusid huvi
 
 **Gendro**
 - 

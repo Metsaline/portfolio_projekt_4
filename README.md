@@ -66,9 +66,9 @@ Suhtluskanalid: **GitHub**, **Slack**.
 - Ei 
 
 **Kenneth**
-- 
-- 
-- 
+- Tiimi juhendamine, uutele õpilastele projekti käigu seletamine.
+- Githubi projekti haldamine
+- Olin juhendaja rolliga rahul, oli hea tunne aidata inimesi nende asjadega, millega ise olen varem kimpus olnud.
 
 **Silja**
 - Tiimitöö

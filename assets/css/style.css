@@ -14,6 +14,7 @@
     opacity: 70%;
     top: 2%;
     left: 1%;
+    flex-direction: column;
     width: 98%;
     height: 5%;
     border-radius: 20px;
@@ -24,10 +25,9 @@
 .introb {
     font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
-    top: 60%;
-    left: 82%;
-    transform: translate(-50%, -60%);
     color: white;
+    display: flex;
+    flex-direction: row;
     background-color: transparent;
     user-select: none;
 }
@@ -35,10 +35,9 @@
 .galleryb {
     font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
-    top: 60%;
-    left: 71.8%;
-    transform: translate(-50%, -60%);
     color: white;
+    display: flex;
+    flex-direction: row;
     background-color: transparent;
     user-select: none;
 }
@@ -46,10 +45,9 @@
 .achievementsb {
     font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
-    top: 60%;
-    left: 94%;
-    transform: translate(-50%, -60%);
+    flex-direction: row;
     color: white;
+    display: flex;
     background-color: transparent;
     user-select: none;
 }
@@ -73,6 +71,8 @@
     font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
     top: 60%;
+    display: flex;
+    flex-direction: inherit;
     left: 5%;
     color: white;
     background-color: transparent;
@@ -156,6 +156,8 @@
     border-radius: 10px;
     background-color: #303030;
     box-shadow: -12px -6px 30px 7px rgba(199, 199, 199, 0.25), 21px 24px 36px #343232, inset 0px 0px 45px 20px rgba(0, 0, 0, 0.25);
+    flex-direction: column;
+    display: flex;
 }
 
 .gallerylabel {
@@ -200,6 +202,8 @@
     height: 19%;
     border-radius: 10px;
     background-color: rgb(45, 45, 45);
+    flex-direction: row;
+    display: flex;
 }
 
 .introductionlabel {
@@ -207,38 +211,31 @@
     left: 50%;
     top: 7%;
     transform: translate(-50%, -50%);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     font-size: 50px;
 }
 
 .introduction {
     background-color: transparent;
-    left: 5%;
-    right: 5%;
-    top: 10%;
-    bottom: 10%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: auto;
+    right: auto;
+    top: auto;
+    bottom: auto;
+    margin-left: auto;
+    font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     font-size: 20px;
 }
 
-.introductionsec {
-    border-color: gray;
-    border-width: 1px;
-    border-style: solid;
-    height: 300px;
-    width: 28%;
-    left: 65%;
-    top: 15%;
-    border-radius: 10px;
-    background-color: rgb(35, 35, 35);
-}
-
 .picture1 {
-    top: 15%;
-    left: 10%;
-    background-color: transparent;
+    z-index: 800;
+    background-color: #303030;
+    width: 100%;
+    height: 114%;
+    background-image: sydmead2;
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -247,6 +244,8 @@
 .saavutusedd {
     font-size: 60px;
     text-align: center;
+    left: 50%;
+    margin-left: 50%;
 }
 
 .container10 {
@@ -259,9 +258,14 @@
     width: 25%;
     display: grid;
     grid-template-columns: auto auto auto;
-    top: 15%;
+    top: 18%;
     left: 2.5%;
-    background-color: red;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: Josefin Sans, Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: #303030;
+    box-shadow: -12px -6px 30px 7px rgba(199, 199, 199, 0.25), 21px 24px 36px #343232, inset 0px 0px 45px 20px rgba(0, 0, 0, 0.25);
     margin: 10px;
 }
 

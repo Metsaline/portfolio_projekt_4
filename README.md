@@ -70,9 +70,9 @@ Suhtluskanalid: **GitHub**, **Slack**.
 - 
 
 **Silja**
-- 
-- 
-- 
+- 1.Tiimitöö
+- 2. koodi kirjutamine
+- 3. Ei
 
 **Marcus**
 - 
@@ -80,14 +80,14 @@ Suhtluskanalid: **GitHub**, **Slack**.
 - 
 
 **Kristo**
-- 
-- 
-- 
+- 1. Tiimitoo 
+- 2. Oskan paremini disainida veebisaite 
+- 3. Ei
 
 **Marten**
--
--
--
+-1.Tiimitöö
+-2.täiendasin koodikirjutamise oskusi
+-3.ei sain täita just neid ülesandeid mis pakkusid huvi
 
 **Gendro**
 - 

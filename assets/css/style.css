@@ -135,29 +135,6 @@
     top: 114.4%;
 }
 
-
-/* Gallery */
-
-/* For small devices (e.g. smartphones)
-img {
-    max-width: 100%;
-    display: inline-block;
-  }
-  /* For medium devices (e.g. tablets) */
-  /* @media (min-width: 420px) {
-    img {
-      max-width: 48%;
-    }
-  }
-  For large devices (e.g. desktops) */
-  /* @media (min-width: 760px) {
-    img {
-      max-width: 24%;
-    }
-  } */ 
-
-  
-
   .container {
     width: 100%;
     display: grid;
@@ -200,6 +177,30 @@ img {
     color: white;
     font-size: 50px;
 }
+/*INTRODUCTION */
+
+@media screen and (max-width: 1024px) {
+    .introduction{
+        display: flex;
+        flex-direction: column-reverse;
+        margin-top: 25px;
+    }
+    .sydmead2{
+        display: flex;
+        margin:auto;
+        padding: auto;
+    }
+    .introtext{
+        display: flex;
+        margin:auto; 
+        padding:auto;
+    }
+}
+
+.sydmead2 {
+    width: 50%;
+    display: flex;
+}
 
 .introductionmain {
     display: flex;
@@ -231,6 +232,9 @@ img {
     border-style: solid;
     border-radius: 10px;
     background-color: rgb(35, 35, 35);
+}
+.introtext{
+    display: flex;
 }
 
 

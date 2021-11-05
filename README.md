@@ -34,18 +34,6 @@ Portfoolio valmistamine Syd Mead-i põhjal.
 ### Kommunikatsioon
 Suhtluskanalid: **GitHub**, **Slack**.
 
-### Ülesanded
-**1. päev**
-- Meeskonnaga tutvumine
-- Suhtluskanalite loomine
-- Portfoolio subjekti kindlaks tegemine
-- Disaini alustamine Figmas
-- Põhja loomine HTML-is
-
-**2. päev**
-- HTML ja CSS, disaini ümbertoomine koodi
-
-
 ### Projekti disain ja prototüüpimine:
 
 [Figma](https://www.figma.com/file/Pr425dPqU4LKjL1YDkOglm/Portfolio---Team-4?node-id=0%3A1)

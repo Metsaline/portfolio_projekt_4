@@ -246,13 +246,10 @@
     align-content: grid;
 }
 
-
-}
 @media screen and (max-width: 600px) {
     .container10 {
         flex-direction: column;
     }
-    
     .saavutus {
         margin: 0 auto;
         font-size: 24px;
@@ -260,12 +257,10 @@
         background-color: red;
         margin: 10px;
     }
-    
     .saavutusedd {
         font-size: 36px;
         text-align: center;
     }
-    
     .introduction {
         background-color: transparent;
         left: auto;
@@ -280,7 +275,6 @@
         color: white;
         font-size: 20px;
     }
-    
     .picture1 {
         background-color: #303030;
         background-image: sydmead2;
